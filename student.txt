@@ -1,0 +1,6 @@
+raju,155
+Phani,12
+Bhavan,15
+hafeez,18
+pavan,45
+Rajesh,45
