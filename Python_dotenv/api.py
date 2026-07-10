@@ -17,6 +17,5 @@ response = client.models.generate_content(
 )
 
 # 4. Print the final answer to your terminal
-print("\n🤖 GEMINI RESPONSE:")
+print("\n GEMINI RESPONSE:")
 print(response.text)
-print("--------------------")
